@@ -40,7 +40,6 @@ Ainda há o desafio de extrair os gráficos comprimidos e edita-los.
 
 Aqui estão alguns exemplos do trabalho de tradução e adaptação:
 
-**Capturas de Tela**
 ![Diálogos iniciais-1](screenshots/1.png)
 ![Diálogos iniciais-2](screenshots/2.png)
 ![Diálogos iniciais-3](screenshots/3.png)
