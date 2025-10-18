@@ -31,8 +31,9 @@ O objetivo deste projeto é tornar este clássico do GBA acessível para a comun
 Durante o projeto, um dos maiores obstáculos foi a necessidade de realocar os diálogos na memória da ROM, o que quebrava os ponteiros originais. A solução envolveu:
 
 1.  Analisar a estrutura de dados da ROM para entender como os ponteiros eram armazenados.
-2.  Desenvolver uma ferramenta em Python para mapear os ponteiros antigos para os novos endereços.
-3.  Executar uma busca e substituição global para corrigir todas as referências na ROM.
+2.  Encontrar a fonte do jogo e alterar para acrescentar acentuação usada em PT-BR.
+3.  Desenvolver uma ferramenta em Python para mapear os ponteiros antigos para os novos endereços.
+4.  Executar uma busca e substituição global para corrigir todas as referências na ROM.
 
 Ainda há o desafio de extrair os gráficos comprimidos e edita-los.
 
